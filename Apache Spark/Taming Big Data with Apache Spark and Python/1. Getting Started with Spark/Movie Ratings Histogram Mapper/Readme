@@ -1,0 +1,13 @@
+I have downloaded the data set from "https://grouplens.org/datasets/movielens".MovieLens 100K movie ratings. Stable benchmark dataset. 
+100,000 ratings from 1000 users on 1700 movies. Released 4/1998.
+
+The python script is run on a Anaconda Prompt with spark, python and java installed.
+
+The script is written to find out movie ratings. I have found the solutions as:-
+1star 6110
+2star 11370
+3star 27145
+4star 34174
+5star 21201
+
+Run the script: spark-submit ratings-counter.py
