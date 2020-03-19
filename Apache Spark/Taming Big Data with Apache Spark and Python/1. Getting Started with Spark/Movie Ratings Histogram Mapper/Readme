@@ -11,3 +11,5 @@ The script is written to find out movie ratings. I have found the solutions as:-
 5star 21201
 
 Run the script: spark-submit ratings-counter.py
+
+The dataset is also provided: "ml-100k"
